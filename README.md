@@ -1,2 +1,1 @@
-# azurerepo
-practising  session of azure class 
+iam saiprasad from azure class
